@@ -1,0 +1,25 @@
+{
+  "pokemon": [
+    {
+      "name": "Pikachu",
+      "species": "Electric Mouse",
+      "level": 12,
+      "trainer": "Ash",
+      "isEgg": false
+    },
+    {
+      "name": "Charmander",
+      "species": "Lizard",
+      "level": 8,
+      "trainer": "Red",
+      "isEgg": false
+    },
+    {
+      "name": "Mystery Egg",
+      "species": "Unknown",
+      "level": 1,
+      "trainer": "Brock",
+      "isEgg": true
+    }
+  ]
+}
