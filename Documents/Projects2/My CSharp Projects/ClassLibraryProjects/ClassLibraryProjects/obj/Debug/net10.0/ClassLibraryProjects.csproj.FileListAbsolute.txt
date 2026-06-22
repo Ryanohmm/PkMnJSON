@@ -1,0 +1,15 @@
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\net10.0\ClassLibraryProjects.exe
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\net10.0\ClassLibraryProjects.deps.json
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\net10.0\ClassLibraryProjects.runtimeconfig.json
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\net10.0\ClassLibraryProjects.dll
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\bin\Debug\net10.0\ClassLibraryProjects.pdb
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.AssemblyInfoInputs.cache
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.AssemblyInfo.cs
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.csproj.CoreCompileInputs.cache
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.sourcelink.json
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.dll
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\refint\ClassLibraryProjects.dll
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.pdb
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ClassLibraryProjects.genruntimeconfig.cache
+c:\Users\shado\Documents\Projects2\My CSharp Projects\ClassLibraryProjects\ClassLibraryProjects\obj\Debug\net10.0\ref\ClassLibraryProjects.dll
