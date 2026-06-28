@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj": {}
+    "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj": {
+    "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj",
         "projectName": "StringLibrary",
-        "projectPath": "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj",
+        "projectPath": "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\StringLibrary.csproj",
         "packagesPath": "C:\\Users\\shado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\obj\\",
+        "outputPath": "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shado\\AppData\\Roaming\\NuGet\\NuGet.Config"

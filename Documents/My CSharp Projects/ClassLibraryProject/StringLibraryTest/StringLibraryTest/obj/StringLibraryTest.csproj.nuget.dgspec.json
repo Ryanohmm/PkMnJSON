@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj": {}
+    "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj": {
+    "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj",
+        "projectUniqueName": "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj",
         "projectName": "StringLibraryTest",
-        "projectPath": "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj",
+        "projectPath": "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj",
         "packagesPath": "C:\\Users\\shado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\obj\\",
+        "outputPath": "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shado\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYzvzfNQFU4=",
+  "dgSpecHash": "b4XDPoBo5lg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shado\\Documents\\Projects2\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj",
+  "projectFilePath": "C:\\Users\\shado\\Documents\\My CSharp Projects\\ClassLibraryProject\\StringLibraryTest\\StringLibraryTest\\StringLibraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shado\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\shado\\.nuget\\packages\\microsoft.codecoverage\\18.0.1\\microsoft.codecoverage.18.0.1.nupkg.sha512",
